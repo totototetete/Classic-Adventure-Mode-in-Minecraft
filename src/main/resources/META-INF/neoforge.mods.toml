@@ -4,7 +4,7 @@ license="MIT"
 
 [[mods]]
 modId="classic_adventure"
-version="${file.jarVersion}"
+version="${mod_version}"
 displayName="Classic Adventure"
 authors="User"
 description="Replicates pre-1.7.10 adventure mode mining restrictions."
